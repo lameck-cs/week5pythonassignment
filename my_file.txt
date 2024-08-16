@@ -1,0 +1,6 @@
+Hello, world!
+This is a file handling example.
+Number 1234
+Appending another line.
+Adding yet another line.
+Final line appended.
